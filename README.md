@@ -25,7 +25,7 @@ Me encanta aprender nuevas tecnologías y explorar herramientas que me ayuden a 
 
 ## 🌐 Conéctemos
 ¡Estoy siempre abierto a colaborar y aprender! Puedes contactarme a través de:
-- **LinkedIn**: [Jorge Martínez](https://www.linkedin.com/in/jorge-martinez/)
+- **LinkedIn**: [Jorge Martínez](https://www.linkedin.com/in/jorge-martinez-8282941ab/)
 - **Correo electrónico**: jorgemart9.jm@gmail.com
 
 ## 📈 Estadísticas
