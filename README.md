@@ -1,25 +1,48 @@
-<h1 align='center'> JORGE MARTINEZ MARTINEZ</h1>
+# ¡Hola! Soy Jorge Martínez Martínez 👋
 
-- 🌐 **Website**: [jomama6@edem.es](https://edem.es/)
-- 🐦 **Twitter**: [@jomama6](https://twitter.com/jomama6)
-- 💼 **LinkedIn**: [Jorge Martínez Martínez](https://www.linkedin.com/in/jorge-martinez-8282941ab/)
+Bienvenido a mi perfil de GitHub. Soy un apasionado de **la tecnología**, **el Big Data** y todo lo relacionado con la **nube**. Actualmente estoy estudiando un **máster en Big Data & Cloud** en **EDEM**, donde profundizo en cómo las tecnologías emergentes pueden transformar el mundo.
 
+## 🔍 Sobre mí
+- **🎓 Estudiante de Máster en Big Data & Cloud**
+- **⚙️ Apasionado de la programación y la tecnología**
+- **🏃‍♂️ Aficionado al deporte** (me gusta correr, hacer crossfit y todo lo relacionado con el bienestar físico)
+- **☁️ Siempre explorando nuevas tecnologías en la nube**
 
+## 💻 Proyectos Destacados
+Aquí están algunos de los proyectos en los que he estado trabajando:
 
+- **📊 Análisis de Big Data para optimización de procesos**: [Enlace al proyecto](https://github.com/tuusuario/proyecto-bigdata)
+- **☁️ Implementación de soluciones en la nube**: [Enlace al proyecto](https://github.com/tuusuario/proyecto-cloud)
 
-Mi nombre es Jorge Martínez Martínez. Soy un chico de 25 años con muchas ganas de formarme en el ámbito del data science y poder dedicarme a ello. Me apasiona la tecnología y su continua innovación. Fuera del ámbito laboral, el deporte forma parte de mi, especialmente el futbol o el ciclismo.
+## 🛠 Tecnologías y Herramientas
+Me encanta aprender nuevas tecnologías y explorar herramientas que me ayuden a crear soluciones innovadoras. Algunas de las que uso más:
 
-### Languages and Tools:
+- **Lenguajes**: Python, JavaScript, SQL
+- **Big Data**: Apache Hadoop, Spark
+- **Nube**: AWS, Azure
+- **Bases de datos**: PostgreSQL, MongoDB
+- **Otros**: Docker, Kubernetes, Git
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+## 🌐 Conéctemos
+¡Estoy siempre abierto a colaborar y aprender! Puedes contactarme a través de:
+- **LinkedIn**: [Jorge Martínez](https://www.linkedin.com/in/jorge-martinez/)
+- **Correo electrónico**: jorge.martinez@correo.com
+
+## 📈 Estadísticas
+Aquí tienes algunas estadísticas sobre mi actividad en GitHub:
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+
+## 🎯 Objetivos
+En el futuro, quiero seguir desarrollándome como **experto en Big Data y Cloud**, colaborar en proyectos innovadores y contribuir al avance de la tecnología en el ámbito empresarial.
+
+---
+
+**"La tecnología es lo que une mis pasiones: la resolución de problemas, la innovación y la mejora continua."** 🚀
+
+---
+
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o simplemente quieres hablar de tecnología, no dudes en contactarme. ¡Hasta pronto! 😊
+
 
 
