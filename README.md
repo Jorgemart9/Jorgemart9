@@ -26,7 +26,7 @@ Me encanta aprender nuevas tecnologías y explorar herramientas que me ayuden a 
 ## 🌐 Conéctemos
 ¡Estoy siempre abierto a colaborar y aprender! Puedes contactarme a través de:
 - **LinkedIn**: [Jorge Martínez](https://www.linkedin.com/in/jorge-martinez/)
-- **Correo electrónico**: jorge.martinez@correo.com
+- **Correo electrónico**: jorgemart9.jm@gmail.com
 
 ## 📈 Estadísticas
 Aquí tienes algunas estadísticas sobre mi actividad en GitHub:
